@@ -3,6 +3,6 @@
 ### Hello,I am dongwenbo 
 
 - 博客: https://dongwenbo.com
-- 邮箱: dongwenbo_work@aliyun.com
+- 邮箱: lucky.wenbo.dong@aliyun.com
 - 语言: go/python/vue/shell
 
